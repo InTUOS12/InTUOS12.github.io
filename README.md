@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### 학력
 
--List
+- List
 학교
 숭실대학교 소프트웨어학부 21학번
